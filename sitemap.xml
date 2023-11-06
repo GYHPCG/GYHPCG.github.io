@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/11/05/welcome/</loc>
+    <loc>https://gyhpcg.gihthub.io/2023/11/05/hello-world/</loc>
+    
+    <lastmod>2023-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gyhpcg.gihthub.io/link/index.html</loc>
+    
+    <lastmod>2023-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gyhpcg.gihthub.io/categories/index.html</loc>
+    
+    <lastmod>2023-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gyhpcg.gihthub.io/tags/index.html</loc>
+    
+    <lastmod>2023-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://gyhpcg.gihthub.io/2023/11/05/welcome/</loc>
     
     <lastmod>2023-11-05</lastmod>
     
@@ -11,16 +47,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/test/index.html</loc>
-    
-    <lastmod>2023-11-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2023/11/05/hello-world/</loc>
+    <loc>https://gyhpcg.gihthub.io/test/index.html</loc>
     
     <lastmod>2023-11-05</lastmod>
     
@@ -30,8 +57,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2023-11-05</lastmod>
+    <loc>https://gyhpcg.gihthub.io/</loc>
+    <lastmod>2023-11-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>

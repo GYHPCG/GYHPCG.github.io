@@ -1,4 +1,7 @@
-http://example.com/2023/11/05/welcome/
-http://example.com/test/index.html
-http://example.com/2023/11/05/hello-world/
-http://example.com/
+https://gyhpcg.gihthub.io/2023/11/05/hello-world/
+https://gyhpcg.gihthub.io/link/index.html
+https://gyhpcg.gihthub.io/categories/index.html
+https://gyhpcg.gihthub.io/tags/index.html
+https://gyhpcg.gihthub.io/2023/11/05/welcome/
+https://gyhpcg.gihthub.io/test/index.html
+https://gyhpcg.gihthub.io/
