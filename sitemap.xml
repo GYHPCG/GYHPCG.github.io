@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://gyhpcg.gihthub.io/2023/11/06/hexo%E6%90%AD%E5%BB%BA%E6%B5%8B%E8%AF%95/</loc>
+    
+    <lastmod>2023-11-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://gyhpcg.gihthub.io/2023/11/05/hello-world/</loc>
     
     <lastmod>2023-11-06</lastmod>
@@ -63,6 +72,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://gyhpcg.gihthub.io/tags/environment/</loc>
+    <lastmod>2023-11-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   
