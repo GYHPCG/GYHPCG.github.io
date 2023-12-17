@@ -6,7 +6,7 @@
   <link href="https://gyhpcg.gihthub.io/atom.xml" rel="self"/>
   
   <link href="https://gyhpcg.gihthub.io/"/>
-  <updated>2023-11-06T05:23:35.482Z</updated>
+  <updated>2023-11-23T11:55:37.861Z</updated>
   <id>https://gyhpcg.gihthub.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>设计模式</title>
+    <link href="https://gyhpcg.gihthub.io/2023/11/23/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <id>https://gyhpcg.gihthub.io/2023/11/23/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</id>
+    <published>2023-11-23T10:22:05.000Z</published>
+    <updated>2023-11-23T11:55:37.861Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="设计模式"><a href="#设计模式" class="headerlink" title="设计模式"></a>设计模式</h1><h2 id="一-设计模式六大原则"><a href="#一-设计模式六大原则" class="headerlink" title="一. 设计模式六大原则"></a>一. 设计模式六大原则</h2><p>总原则–开闭原则</p><blockquote><p>一个软件实体一个对扩展开放，对修改关闭</p></blockquote><ol><li>单一职责原则<blockquote><p>一个类应该只有一个引起发生变化的原因</p></blockquote></li><li>里氏替换原则<blockquote><p>所有使用父类的地方都可以用子类对象来替换（子类对父类的方法尽量不要重写和重载）</p></blockquote></li><li>依赖倒转原则<blockquote><ol><li>上层模块不应该依赖底层模块，它们都应该依赖抽象</li><li>抽象不应该依赖于细节，细节应该依赖于抽象</li></ol></blockquote></li><li>接口隔离原则<blockquote><ol><li>客户端不应该依赖它不需要的接口</li><li>类间的依赖关系应该建立在最小的接口上</li></ol></blockquote></li><li>迪米特原则（最小知道原则）<blockquote><p>只与你的直接朋友交谈，不跟“陌生人”说话<br>一个类对自己依赖的类知道的越少越好。无论被依赖的类多么复杂，都应该将逻辑封装在方法的内部，通过public 方法提供给外部</p></blockquote></li><li>合成复用原则（组合优先于继承）<blockquote><p>尽量使用对象组合&#x2F;聚合，而是继承关系达到软件复用的目的</p></blockquote></li></ol><h2 id="二-设计模式的三大类"><a href="#二-设计模式的三大类" class="headerlink" title="二. 设计模式的三大类"></a>二. 设计模式的三大类</h2><ol><li>创建型模式：对类的实例化过程进行了抽象，能够将软件模块中对象的创建和对象的使用分离。工厂模式、抽象工厂模式、单例模式、建造者模式、原型模式</li><li>结构型模式：关注于对象的组成以及对象之间的依赖关系，描述如何将类或者对象结合在一起形成更大的结构，就像搭积木，可以通过简单积木的组合形成复杂的、功能更为强大的结构。 适配器模式、装饰者模式、代理模式、外观模式、桥接模式、组合模式、享元模式。</li><li>行为型模式：关注于对象的行为问题，是对在不同的对象之间划分责任和算法的抽象化；不仅仅关注类和对象的结构，而且重点关注它们之间的相互作用。<blockquote><p>策略模式、模板方法模式、观察者模式、迭代器模式、责任链模式、命令模式、备忘录模式、状态模式、访问者模式、中介者模式、解释器模式</p></blockquote></li></ol><h2 id="三-23种设计模式"><a href="#三-23种设计模式" class="headerlink" title="三. 23种设计模式"></a>三. 23种设计模式</h2>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;设计模式&quot;&gt;&lt;a href=&quot;#设计模式&quot; class=&quot;headerlink&quot; title=&quot;设计模式&quot;&gt;&lt;/a&gt;设计模式&lt;/h1&gt;&lt;h2 id=&quot;一-设计模式六大原则&quot;&gt;&lt;a href=&quot;#一-设计模式六大原则&quot; class=&quot;headerlink&quot; titl</summary>
+      
+    
+    
+    
+    <category term="学习总结" scheme="https://gyhpcg.gihthub.io/categories/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="设计模式" scheme="https://gyhpcg.gihthub.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo搭建测试</title>
