@@ -1,3 +1,4 @@
+https://gyhpcg.gihthub.io/2024/04/20/c-%E8%AE%A4%E8%AF%86string%E7%B1%BB/
 https://gyhpcg.gihthub.io/2024/04/20/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5-1/
 https://gyhpcg.gihthub.io/2024/04/18/%E8%BD%AF%E9%93%BE%E6%8E%A5%E5%92%8C%E7%A1%AC%E9%93%BE%E6%8E%A5/
 https://gyhpcg.gihthub.io/2024/01/06/%E5%B8%B8%E7%94%A8%E7%AE%80%E5%8D%95%E5%B7%A5%E5%85%B7/
@@ -18,6 +19,7 @@ https://gyhpcg.gihthub.io/
 https://gyhpcg.gihthub.io/tags/%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/
 https://gyhpcg.gihthub.io/tags/big-data/
 https://gyhpcg.gihthub.io/tags/Hive/
+https://gyhpcg.gihthub.io/tags/string/
 https://gyhpcg.gihthub.io/tags/environment/
 https://gyhpcg.gihthub.io/tags/Rust/
 https://gyhpcg.gihthub.io/tags/Tools/
@@ -27,6 +29,7 @@ https://gyhpcg.gihthub.io/tags/Linux%E3%80%81%E9%93%BE%E6%8E%A5/
 https://gyhpcg.gihthub.io/categories/emo%E8%83%A1%E6%80%9D%E4%B9%B1%E6%83%B3/
 https://gyhpcg.gihthub.io/categories/Hadoop/
 https://gyhpcg.gihthub.io/categories/big-Data/
+https://gyhpcg.gihthub.io/categories/%E7%8E%B0%E4%BB%A3C-STL/
 https://gyhpcg.gihthub.io/categories/%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/
 https://gyhpcg.gihthub.io/categories/%E5%B7%A5%E5%85%B7%E4%BD%BF%E7%94%A8/
 https://gyhpcg.gihthub.io/categories/CS%E5%9F%BA%E7%A1%80%E3%80%81%E5%9B%9B%E5%A4%A7%E4%BB%B6%E3%80%81%E5%86%85%E5%8A%9F/
